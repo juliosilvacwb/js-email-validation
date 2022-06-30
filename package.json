@@ -1,5 +1,5 @@
 {
-  "name": "js-email-validate",
+  "name": "js-email-validation",
   "version": "1.0.0",
   "description": "Lib to validate email",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "test": "jest --no-cache",
     "build": "tsc --declaration"
   },
-  "keywords": ["email", "validate"],
+  "keywords": ["email", "validate", "validation"],
   "author": "Julio Silva",
   "license": "ISC",
   "devDependencies": {

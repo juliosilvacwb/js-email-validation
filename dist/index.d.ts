@@ -1,1 +1,1 @@
-export declare function isEmailValid(value: string): boolean;
+export declare function isValidEmail(value: string): boolean;
