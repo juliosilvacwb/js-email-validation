@@ -1,6 +1,6 @@
 # js-email-validation
 
-Lib to email validate
+Lib to email validation
 
 #### Javascript example:
 ```js

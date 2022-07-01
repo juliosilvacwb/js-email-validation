@@ -1,6 +1,6 @@
 {
   "name": "js-email-validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lib to validate email",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
